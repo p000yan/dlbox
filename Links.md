@@ -2,6 +2,12 @@
 > Click on any link below to start downloading directly.<br><br/>
 
 
+### 📅 2026-05-13 13:27 IR
+- 📥 [zyrln-1.5.1-pre6-windows-amd64.exe](https://github.com/p000yan/dlbox/raw/main/dl/zyrln-1.5.1-pre6-windows-amd64.exe) `10.9MB`
+
+---
+
+
 ### 📅 2026-05-13 13:20 IR
 - 📱 [zyrln-1.5.1-pre6.apk](https://github.com/p000yan/dlbox/raw/main/dl/zyrln-1.5.1-pre6.apk) `24.3MB`
 
