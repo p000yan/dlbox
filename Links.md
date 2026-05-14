@@ -2,6 +2,12 @@
 > Click on any link below to start downloading directly.<br><br/>
 
 
+### 📅 2026-05-14 17:42 IR
+- 📱 [ShirOKhorshid-2026.05.14.apk](https://github.com/p000yan/dlbox/raw/main/dl/ShirOKhorshid-2026.05.14.apk) `23.9MB`
+
+---
+
+
 ### 📅 2026-05-14 08:31 IR
 - 📱 [v2rayNG_2.1.7_universal.apk](https://github.com/p000yan/dlbox/raw/main/dl/v2rayNG_2.1.7_universal.apk) `61.9MB`
 
